@@ -12,12 +12,11 @@ Ready template to start with uploading images to posts and saving them in Postgr
 ## Instructions
 - run "bundle install" to ensure that all necessary gems are installed
 - ensure that Imagemagick properly installed which can cause issues with applying different image size styles
-
-Hint: 
-brew uninstall imagemagick
-brew uninstall libtool
-brew install libtool --universal
-brew install imagemagick --build-from-source
+- Hint to reinstall imagemagick: 
+-- brew uninstall imagemagick 
+-- brew uninstall libtool 
+-- brew install libtool --universal 
+-- brew install imagemagick --build-from-source
 
 
 ##Author
